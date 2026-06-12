@@ -88,3 +88,60 @@ public class BankManagementSystem {
         sc.close();
     }
 }
+
+
+// SAMPLE INPUT:
+// Enter Initial Balance: 5000
+// 1
+// 2000
+// 3
+// 2
+// 1500
+// 3
+// 4
+
+// SAMPLE OUTPUT:
+
+// Enter Initial Balance: 5000
+
+// ===== BANK MENU =====
+// 1. Deposit Money
+// 2. Withdraw Money
+// 3. Check Balance
+// 4. Exit
+// Enter your choice: 1
+// Enter deposit amount: 2000
+// Successfully Deposited: ₹2000.0
+
+// ===== BANK MENU =====
+// 1. Deposit Money
+// 2. Withdraw Money
+// 3. Check Balance
+// 4. Exit
+// Enter your choice: 3
+// Current Balance: ₹7000.0
+
+// ===== BANK MENU =====
+// 1. Deposit Money
+// 2. Withdraw Money
+// 3. Check Balance
+// 4. Exit
+// Enter your choice: 2
+// Enter withdrawal amount: 1500
+// Successfully Withdrawn: ₹1500.0
+
+// ===== BANK MENU =====
+// 1. Deposit Money
+// 2. Withdraw Money
+// 3. Check Balance
+// 4. Exit
+// Enter your choice: 3
+// Current Balance: ₹5500.0
+
+// ===== BANK MENU =====
+// 1. Deposit Money
+// 2. Withdraw Money
+// 3. Check Balance
+// 4. Exit
+// Enter your choice: 4
+// Thank you for using Bank Management System.
